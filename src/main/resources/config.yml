@@ -1,0 +1,36 @@
+chat:
+  format: "{prefix} {user} {suffix}&8»&7 {chat}"
+  disabled:
+    millis: 1501494069433
+  slowed:
+    millis: 1496806034758
+  slowed-delay: 3
+allowed-ops:
+  - Ggamer55
+  - PCRonnie15
+announcer:
+    enabled: false
+    announcements: []
+    delay: 1200
+clearlag:
+   delay: 300
+kick-server-full: "§cThe server is full [%1$s/%2$s]. \n Donate in store.sparknetwork.us to bypass this."
+max-players: 300
+internal-server-name: SparkNetwork
+bans:
+  is-lobby: false
+  display-server-name: "SparkNetwork"
+  auto-refresh-ticks: 5
+  unpunishable-players:
+      - Ggamer55
+      - LootingVII
+server:
+  colors:
+    YELLOW: YELLOW
+    GOLD: GOLD
+    GRAY: GRAY
+  info:
+    name: SparkNetwork
+    teamspeak: ts.sparknetwork.us
+    site: sparknetwork.us
+    store: store.sparknetwork.us

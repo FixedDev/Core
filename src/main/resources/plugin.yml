@@ -1,0 +1,6 @@
+name: ${project.name}
+author: Ggamer55
+version: ${project.version}
+main: us.sparknetwork.core.CorePlugin
+depend: [Vault]
+loadbefore: [Kits, Hcf, Hub]

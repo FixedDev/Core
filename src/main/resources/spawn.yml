@@ -1,0 +1,9 @@
+Spawn:
+    ==: us.sparknetwork.util.PersistableLocation
+    worldUUID: 009e0e0e-df00-4d3a-b144-d3cc210f6914
+    worldName: world
+    x: 0.0
+    y: 90.0
+    z: 0.0
+    pitch: 0.0
+    yaw: 180.0
