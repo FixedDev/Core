@@ -1,0 +1,19 @@
+global-announcer:
+    enabled: false
+    announcements: []
+    delay: 1200
+    
+network-name: SparkNetwork
+color1: YELLOW
+color2: GOLD
+
+network-maintenance: false
+network-maintenance-msg: "This network is currently in maintenance, join later for news."
+
+motd: "A Minecraft server"
+redis:
+  host: localhost
+  port: 6379
+  password: ""
+bungee-name: PrincipalBungee
+
