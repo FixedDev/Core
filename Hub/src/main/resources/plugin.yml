@@ -1,0 +1,5 @@
+name: ${project.name}
+author: Ggamer55
+version: ${project.version}
+main: us.sparknetwork.hub.HubPlugin
+softdepends: [Core]

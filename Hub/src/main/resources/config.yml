@@ -1,0 +1,11 @@
+builder-mode: false
+selector-size: 9
+servers:
+  Teams:
+    position: 3
+    item: DIAMOND_SWORD
+    information: "Factions : DTR : Koths : DeathBan"
+  Practice:
+    position: 5
+    item: DIAMOND_SWORD
+    information: "ELO : Parties"
